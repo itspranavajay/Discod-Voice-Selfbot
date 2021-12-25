@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "Discord-Voice-Selfbot"
+version = "0.0.8"
+description = "Discord 24/7 Voice Channel Online"
+authors = ["MoeZilla"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+Flask = "^2.0.2"
+PyNaCl = "^1.4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
