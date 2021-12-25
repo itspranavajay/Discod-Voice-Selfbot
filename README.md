@@ -1,4 +1,4 @@
-### Discord-Selfbot-RPC
+### Discord-Selfbot-voice
 ![Screenshot](20211225_094740.jpg)
 
 ### Features:
